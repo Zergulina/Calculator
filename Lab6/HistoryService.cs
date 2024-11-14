@@ -28,16 +28,17 @@ public class HistoryService
 
     public string GetPrevious()
     {
-        return _currentRow == 0 ? "Error" : _history[--_currentRow];
+        return _currentRow == 0 ? "Ошибка: сейчас Вы на первой записи в истории!" : _history[--_currentRow];
+
     }
 
     public string GetCurrent()
     {
-        return _history.Length == 0 ? "Error" : _history[_currentRow];
+        return _history.Length == 0 ? "Ошибка: историй пуста!" : _history[_currentRow];
     }
 
     public string GetNext()
     {
-        return _currentRow == _history.Length - 1 || _history.Length == 0 ? "Error" : _history[++_currentRow];
+        return _currentRow == _history.Length - 1 || _history.Length == 0 ? "Ошибка: сейчас Вы на последней записи в истории!" : _history[++_currentRow];
     }
 }

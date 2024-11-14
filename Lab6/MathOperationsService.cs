@@ -62,8 +62,6 @@ public static class MathOperationsService
             outputString += token;
         }
 
-        Console.WriteLine(outputString);
-
         return outputString;
     }
 
@@ -94,7 +92,6 @@ public static class MathOperationsService
                 stack.Push(_binaryOperators[c].Item2(a, b));
             }
         }
-        Console.WriteLine(stack.Count());
         return stack.Pop();
     }
 }
