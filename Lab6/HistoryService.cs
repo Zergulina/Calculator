@@ -34,7 +34,7 @@ public class HistoryService
 
     public string GetCurrent()
     {
-        return _history.Length == 0 ? "Ошибка: историй пуста!" : _history[_currentRow];
+        return _history.Length == 0 ? "Ошибка: история пуста!" : _history[_currentRow];
     }
 
     public string GetNext()
