@@ -11,14 +11,6 @@ D:\labs\DotNet\Lab6\Lab6\obj\Debug\net8.0\Lab6.AssemblyInfoInputs.cache
 D:\labs\DotNet\Lab6\Lab6\obj\Debug\net8.0\Lab6.AssemblyInfo.cs
 D:\labs\DotNet\Lab6\Lab6\obj\Debug\net8.0\Lab6.csproj.CoreCompileInputs.cache
 D:\labs\DotNet\Lab6\Lab6\obj\Debug\net8.0\Lab6.sourcelink.json
-<<<<<<< HEAD
-=======
-D:\labs\DotNet\Lab6\Lab6\bin\Debug\net8.0\Lab6.exe
-D:\labs\DotNet\Lab6\Lab6\bin\Debug\net8.0\Lab6.deps.json
-D:\labs\DotNet\Lab6\Lab6\bin\Debug\net8.0\Lab6.runtimeconfig.json
-D:\labs\DotNet\Lab6\Lab6\bin\Debug\net8.0\Lab6.dll
-D:\labs\DotNet\Lab6\Lab6\bin\Debug\net8.0\Lab6.pdb
->>>>>>> 9e4f926 (Added history service)
 D:\labs\DotNet\Lab6\Lab6\obj\Debug\net8.0\Lab6.dll
 D:\labs\DotNet\Lab6\Lab6\obj\Debug\net8.0\refint\Lab6.dll
 D:\labs\DotNet\Lab6\Lab6\obj\Debug\net8.0\Lab6.pdb
